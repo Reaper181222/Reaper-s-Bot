@@ -21,6 +21,12 @@
       "precio": 23,
       "desc": "234234",
       "foto": null
+    },
+    "asdd": {
+      "emoji": "\ud83d\ude4f",
+      "precio": 2132,
+      "desc": "asdd",
+      "foto": "https://cdn.discordapp.com/ephemeral-attachments/1429529230416547972/1429613659159658615/Circulo.gif?ex=68f6c6f9&is=68f57579&hm=37830fde493ee1bbfc09c632d24287c24bfff6ca7f31bb47def128d6089bf413&"
     }
   }
 }
