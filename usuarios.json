@@ -1,23 +1,3 @@
 {
-  "usuarios": {
-    "707670903538057316": {   
-      "personaje": "Zerek Ironflare",
-      "inventario": {
-        "Bayas Rojas": 5,
-        "Cables": 1
-      },
-      "mecabestia": {
-        "nombre": null,
-        "nivel": 0,
-        "mejoras": []
-      },
-      "lanzadora": {
-        "tipo": null,
-        "mejoras": []
-      },
-      "equipo_babosas": [],
-      "mejoras_lanzadora": [],
-      "mejoras_mecabestia": []
-    }
-  }
+  "usuarios": {}
 }
