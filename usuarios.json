@@ -2,6 +2,42 @@
   "usuarios": {
     "123456789": {
       "personajes": {}
+    },
+    "707670903538057316": {
+      "personajes": {
+        "Zerek Ironflare": {
+          "raza": "Humano",
+          "stats": {
+            "vida": 30,
+            "defensa": 1,
+            "esquives": 0,
+            "rapidez": 1,
+            "precision": 10,
+            "fuerza": 1,
+            "inteligencia": 10
+          },
+          "faccion": "Buenazo",
+          "foto": "https://64.media.tumblr.com/9368db31a70118096796f7d2926d8729/tumblr_pvxmg2sVjo1woo6vmo8_250.pnj",
+          "inventario": {},
+          "mecabestia": {
+            "nombre": null,
+            "nivel": 0,
+            "mejoras": []
+          },
+          "lanzadora": {
+            "tipo": null,
+            "mejoras": []
+          },
+          "equipo_babosas": [
+            {
+              "especie": "electroshock",
+              "nombre": "Thevenox"
+            }
+          ],
+          "mejoras_lanzadora": [],
+          "mejoras_mecabestia": []
+        }
+      }
     }
   }
 }
