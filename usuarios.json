@@ -1,10 +1,10 @@
 {
   "usuarios": {
-    "123456789012345678": {   
-      "personaje": "NombrePersonaje",
+    "707670903538057316": {   
+      "personaje": "Zerek Ironflare",
       "inventario": {
-        "Poción": 5,
-        "Espada": 1
+        "Bayas Rojas": 5,
+        "Cables": 1
       },
       "mecabestia": {
         "nombre": null,
