@@ -1,21 +1,30 @@
 {
   "usuarios": {
-    "707670903538057316": {
-      "discord": "cab_q",
-      "personaje": "Zerek Ironflare",
-      "inventario": {},
-      "mecabestia": {
-        "nombre": null,
-        "nivel": 0,
-        "mejoras": []
-      },
-      "lanzadora": {
-        "tipo": null,
-        "mejoras": []
-      },
-      "equipo_babosas": [],
-      "mejoras_lanzadora": [],
-      "mejoras_mecabestia": []
+    "123456789": {
+      "personajes": {
+        "nombre_unico_personaje": {
+          "raza": "Humano",
+          "stats": {
+            "vida": 100,
+            "defensa": 50,
+            "esquives": 2,
+            "rapidez": 0,
+            "precision": 0,
+            "fuerza": 0,
+            "inteligencia": 0
+          },
+          "faccion": "Neutral",
+          "foto": "url_o_archivo",
+          "inventario": {},
+          "mecabestia": {"nombre": null, "nivel": 0, "mejoras": []},
+          "lanzadora": {"tipo": null, "mejoras": []},
+          "equipo_babosas": [
+            {"especie": "babosa1", "nombre": "miBabosa"}
+          ],
+          "mejoras_lanzadora": [],
+          "mejoras_mecabestia": []
+        }
+      }
     }
   }
 }
