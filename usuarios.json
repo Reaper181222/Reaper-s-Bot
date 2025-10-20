@@ -16,8 +16,16 @@
           "faccion": "Neutral",
           "foto": "url_o_archivo",
           "inventario": {},
-          "mecabestia": {"nombre": null, "nivel": 0, "mejoras": []},
-          "lanzadora": {"tipo": null, "mejoras": []},
+          "mecabestia": {
+            "nombre": null,
+            "nivel": 0,
+            "mejoras": [],
+            "foto": null
+          },
+          "lanzadora": {
+            "mejoras": [],
+            "foto": null
+          },
           "equipo_babosas": [
             {"especie": "babosa1", "nombre": "miBabosa"}
           ],
