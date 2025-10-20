@@ -1,45 +1,7 @@
 {
   "usuarios": {
     "123456789": {
-      "personajes": {
-        "nombre_unico_personaje": {
-          "raza": "Humano",
-          "stats": {
-            "vida": 100,
-            "defensa": 50,
-            "esquives": 2,
-            "rapidez": 0,
-            "precision": 0,
-            "fuerza": 0,
-            "inteligencia": 0
-          },
-          "faccion": "Neutral",
-          "foto": "url_o_archivo",
-          "inventario": {},
-          "mecabestia": {
-            "nombre": "BestiaMax",
-            "nivel": 0,
-            "foto": "url_o_archivo",
-            "mejoras": {
-              "mejora1": 2,
-              "mejora2": 1
-            }
-          },
-          "lanzadora": {
-            "nombre": "LanzaX",
-            "foto": "url_o_archivo",
-            "mejoras": {
-              "mejora1": 3,
-              "mejora2": 1
-            }
-          },
-          "equipo_babosas": [
-            {"especie": "babosa1", "nombre": "miBabosa"}
-          ],
-          "mejoras_lanzadora": [],
-          "mejoras_mecabestia": []
-        }
-      }
+      "personajes": {}
     }
   }
 }
