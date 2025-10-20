@@ -1,0 +1,23 @@
+{
+  "usuarios": {
+    "123456789012345678": {   
+      "personaje": "NombrePersonaje",
+      "inventario": {
+        "Poción": 5,
+        "Espada": 1
+      },
+      "mecabestia": {
+        "nombre": null,
+        "nivel": 0,
+        "mejoras": []
+      },
+      "lanzadora": {
+        "tipo": null,
+        "mejoras": []
+      },
+      "equipo_babosas": [],
+      "mejoras_lanzadora": [],
+      "mejoras_mecabestia": []
+    }
+  }
+}
