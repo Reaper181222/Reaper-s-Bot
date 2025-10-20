@@ -17,14 +17,21 @@
           "foto": "url_o_archivo",
           "inventario": {},
           "mecabestia": {
-            "nombre": null,
+            "nombre": "BestiaMax",
             "nivel": 0,
-            "mejoras": [],
-            "foto": null
+            "foto": "url_o_archivo",
+            "mejoras": {
+              "mejora1": 2,
+              "mejora2": 1
+            }
           },
           "lanzadora": {
-            "mejoras": [],
-            "foto": null
+            "nombre": "LanzaX",
+            "foto": "url_o_archivo",
+            "mejoras": {
+              "mejora1": 3,
+              "mejora2": 1
+            }
           },
           "equipo_babosas": [
             {"especie": "babosa1", "nombre": "miBabosa"}
