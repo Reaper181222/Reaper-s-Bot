@@ -1,3 +1,21 @@
 {
-  "usuarios": {}
+  "usuarios": {
+    "707670903538057316": {
+      "discord": "cab_q",
+      "personaje": "Zerek Ironflare",
+      "inventario": {},
+      "mecabestia": {
+        "nombre": null,
+        "nivel": 0,
+        "mejoras": []
+      },
+      "lanzadora": {
+        "tipo": null,
+        "mejoras": []
+      },
+      "equipo_babosas": [],
+      "mejoras_lanzadora": [],
+      "mejoras_mecabestia": []
+    }
+  }
 }
